@@ -1,6 +1,6 @@
 body{
 	background-image: url("cheese.jpg");
-	background-size: 1400px 1000px;
+	background-size: cover;
 }
  #title{
 	font-family: "cursive";
