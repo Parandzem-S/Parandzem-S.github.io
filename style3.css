@@ -4,7 +4,7 @@ body{
 }
 .products{
 	font-size: 24px;
-	background-color:#427a40;
+	background-color: #b5e8a4;
 }
 
 #cheese{
@@ -14,7 +14,7 @@ body{
 .ul_cheese{
 	font-size: 20px;
 	text-align: left;
-	background-color: #67845e 
+	background-color: #67845e; 
 }
 
 h3{font-size: 24px;}
@@ -27,6 +27,6 @@ table, th, td {
 }
 
 
-#cheese{background-color:#a0d190}
+#cheese{background-color:#a0d190;}
 
-#pp{font-size: 20px; background-color: #67845e}
+#pp{font-size: 20px; background-color: #67845e;}
