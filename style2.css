@@ -8,7 +8,7 @@ body{
 	color: #CAB4B4;
 }
 
-#story{font-size: 24; text-align: left; color: #D3CECE}
+#story{font-size: 24; text-align: left; color: #D3CECE;}
 
 #storydiv{
 	font-size: 20px;
@@ -19,9 +19,7 @@ body{
 	color:#e5dada;}
 
 
-#wc{font-size: 24; text-align: left; color: #D3CECE}
+#wc{font-size: 24; text-align: left; color: #D3CECE;}
 
-#p2{color: white; font-family: sans-serif; font-style: italic;
-
-}
+#p2{color: white; font-family: sans-serif; font-style: italic;}
 
