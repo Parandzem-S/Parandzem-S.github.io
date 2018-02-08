@@ -1,7 +1,6 @@
 body{
 	background-image: url("Grapes_Wine_Black_background_Stemware_512143_3840x2160.jpg");
 	background-size: cover;
-	background-repeat: repeat-x;
 }
 
 .div1{
@@ -19,10 +18,10 @@ body{
  .ol{font-size: 18px;
 	color:#e5dada;}
 
-.div2{
-	font-size: 18px;
-	color:white;
-}
 
 #wc{font-size: 24; text-align: left; color: #D3CECE}
+
+#p2{color: white; font-family: sans-serif; font-style: italic;
+
+}
 
