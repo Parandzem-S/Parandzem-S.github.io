@@ -1,0 +1,36 @@
+body{
+	background-image: url("cheese.jpg");
+	background-size: 1400px 1000px;
+}
+ #title{
+	font-family: "cursive";
+	font-size: 65px;
+	letter-spacing: 24px;
+
+}
+
+h2{
+	font-size: 40px;
+	letter-spacing: 12px;
+	color: #110302;
+	
+}
+
+#p1{
+	font-size: 24px;
+	color: #5D0311;
+}
+
+
+li {
+    display:inline;
+    padding: 30px;
+}
+
+.ul{
+  text-align: center;
+  font-size: 36px;
+}
+ .ul ul{
+ 		display: inline-block;	
+ }

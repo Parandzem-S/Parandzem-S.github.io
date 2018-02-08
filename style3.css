@@ -1,0 +1,31 @@
+
+body{
+	background-size: 1400px 800px;
+}
+.products{
+	font-size: 24px;
+}
+
+#cheese{
+	font-size: 20px;
+	text-align: left;
+}
+.ul_cheese{
+	font-size: 20px;
+	text-align: left;
+	background-image: url(tt.jpg)
+}
+
+h3{font-size: 24px;}
+
+#l{font-size: 20px;}
+#ch{font-size: 20px;}
+
+table, th, td {
+   border: 1px solid black;
+}
+
+#dfirst{background-image: url(bb.jpg);}
+.cheese{background-image: url(tt.jpg)}
+
+#pp{font-size: 20px;}

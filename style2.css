@@ -1,0 +1,28 @@
+body{
+	background-image: url("Grapes_Wine_Black_background_Stemware_512143_3840x2160.jpg");
+	background-size: cover;
+	background-repeat: repeat-x;
+}
+
+.div1{
+	font-size: 24px;
+	color: #CAB4B4;
+}
+
+#story{font-size: 24; text-align: left; color: #D3CECE}
+
+#storydiv{
+	font-size: 20px;
+	color:white;
+}
+ 
+ .ol{font-size: 18px;
+	color:#e5dada;}
+
+.div2{
+	font-size: 18px;
+	color:white;
+}
+
+#wc{font-size: 24; text-align: left; color: #D3CECE}
+
